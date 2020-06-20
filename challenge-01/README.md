@@ -2,10 +2,10 @@
 
 ```js
 // Declarar uma variável chamada `myvar`, sem valor.
-?
+var myvar;
 
 // Após declarada, atribua o valor 10 à variável `myvar`.
-?
+myvar = 10;
 
 // Declare uma nova variável chamada `soma`, e adicione uma instrução somando os valores 15 e 8.
 ?
@@ -34,7 +34,7 @@
 // Digite o código que verifica se a variável `myvar` é menor ou igual à variável `soma`.
 ?
 
-// Crie uma função chamada `divisao` que receba como parâmetro dois números, e retorne o resultado da divisão entre eles.
+// Crie uma função chamada `divisao` que receba como parâmetro dois números, e retorne o resultado da divisão entre eles. 
 ?
 
 // Invoque a função criada acima, passando os parâmetros 10 e 2.
